@@ -1,10 +1,10 @@
 # udacity-weather-app
 
-##Weather App
+## Weather App
 
 This app uses Node to take a user's location and give them the current weather forecast.
 
-##Usage
+## Usage
 
 This requires node, cors, and body-parser.
 
